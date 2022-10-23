@@ -12,5 +12,10 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Eirik",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "fCC",
+    "Hello World"
+  ]
 }
